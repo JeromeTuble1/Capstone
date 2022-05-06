@@ -1,0 +1,10 @@
+CREATE TABLE tblLogin (
+UserID varchar(50) NOT NULL PRIMARY KEY,
+UserName varchar(50) NOT NULL,
+Password varchar(50) NOT NULL,
+Gender varchar(50) NOT NULL,
+BirthDate DATE NOT NULL,
+Employee bit NOT NULL,
+Address varchar(100) NOT NULL,
+Age numeric(3,0) NOT NULL,
+Image image NOT NULL);
