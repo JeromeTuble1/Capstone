@@ -1,2 +1,0 @@
-FormBorderStyle = FormBorderStyle.None;
-WindowState = FormWindowState.Maximized;
