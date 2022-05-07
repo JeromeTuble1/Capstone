@@ -1,0 +1,28 @@
+C:\Users\Jerome Tuble\Documents\Visual Studio 2012\Projects\QRCodeDemo\QRCodeDemo\bin\Debug\QRCodeDemo.exe
+C:\Users\Jerome Tuble\Documents\Visual Studio 2012\Projects\QRCodeDemo\QRCodeDemo\bin\Debug\QRCodeDemo.pdb
+C:\Users\Jerome Tuble\Documents\Visual Studio 2012\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jerome Tuble\Documents\Visual Studio 2012\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.Properties.Resources.resources
+C:\Users\Jerome Tuble\Documents\Visual Studio 2012\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.GenerateResource.Cache
+C:\Users\Jerome Tuble\Documents\Visual Studio 2012\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.exe
+C:\Users\Jerome Tuble\Documents\Visual Studio 2012\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.pdb
+C:\Users\Jerome Tuble\Documents\Visual Studio 2012\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.FormLogin.resources
+C:\Users\Jerome Tuble\Documents\Visual Studio 2012\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.FormRegister.resources
+C:\Users\Jerome Tuble\Documents\Visual Studio 2012\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.FormDashboard.resources
+C:\Users\Jerome Tuble\Documents\Visual Studio 2012\Projects\QRCodeDemo\QRCodeDemo\bin\Debug\QRCoder.dll
+C:\Users\Jerome Tuble\Documents\Visual Studio 2012\Projects\QRCodeDemo\QRCodeDemo\bin\Debug\UnityEngine.dll
+C:\Users\Jerome Tuble\Documents\Visual Studio 2012\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.FormGenerateQRCode.resources
+C:\Users\Jerome Tuble\Downloads\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.exe
+C:\Users\Jerome Tuble\Downloads\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.pdb
+C:\Users\Jerome Tuble\Downloads\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jerome Tuble\Downloads\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.FormDashboard.resources
+C:\Users\Jerome Tuble\Downloads\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.FormLogin.resources
+C:\Users\Jerome Tuble\Downloads\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.FormRegister.resources
+C:\Users\Jerome Tuble\Downloads\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.FormScannerQRCode.resources
+C:\Users\Jerome Tuble\Downloads\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.Properties.Resources.resources
+C:\Users\Jerome Tuble\Downloads\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.GenerateResource.Cache
+C:\Users\Jerome Tuble\Downloads\QRCodeDemo\QRCodeDemo\bin\Debug\QRCodeDemo.exe
+C:\Users\Jerome Tuble\Downloads\QRCodeDemo\QRCodeDemo\bin\Debug\QRCodeDemo.pdb
+C:\Users\Jerome Tuble\Downloads\QRCodeDemo\QRCodeDemo\bin\Debug\BasselTech CamCapture.dll
+C:\Users\Jerome Tuble\Downloads\QRCodeDemo\QRCodeDemo\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Jerome Tuble\Downloads\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.GenerateQRCode.resources
+C:\Users\Jerome Tuble\Downloads\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.FormAttendance.resources
