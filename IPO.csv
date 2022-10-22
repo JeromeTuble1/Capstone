@@ -1,0 +1,29 @@
+Id,Name,Shape Library,Page ID,Contained By,Group,Line Source,Line Destination,Source Arrow,Destination Arrow,Status,Text Area 1,Text Area 2
+1,Document,,,,,,,,,Draft,IPO,
+2,Page,,,,,,,,,,Page 1,
+3,Process,Data Flow,2,,,,,,,,INPUT,
+4,Process,Data Flow,2,,,,,,,,PROCESS,
+5,Process,Data Flow,2,,,,,,,,OUTPUT,Qr Code Monitoring System for Skilled Workers of DJAAS Construction
+6,Text,Standard,2,,,,,,,,"Planning
+Initial analysis of the study
+System Analysis
+Find Possible and correct solutions
+System Design
+Layout design
+Flow chart
+Development
+Coding
+Testing
+Testing of the project
+Implementation
+Deployment of the project",
+7,Text,Standard,2,,,,,,,,"Knowledge Requirements
+interviewing the company manager
+Research of the background study
+Software Requirements
+identification of the software that will used in developing the system(Visual Studio,SQL)
+Hardware Requirements
+Laptop spec's
+Qr code scanner",
+8,Line,,2,,,3,4,None,Arrow,,,
+9,Line,,2,,,4,5,None,Arrow,,,
