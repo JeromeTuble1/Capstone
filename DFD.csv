@@ -1,0 +1,55 @@
+Id,Name,Shape Library,Page ID,Contained By,Group,Line Source,Line Destination,Source Arrow,Destination Arrow,Status,Text Area 1,Text Area 2
+1,Document,,,,,,,,,Draft,DFD,
+2,Page,,,,,,,,,,Page 1,
+3,Data Store,Data Flow,2,,,,,,,,,Attendance
+4,Process,Data Flow,2,,,,,,,,1.0,Create Worker Attendance
+5,Process,Data Flow,2,,,,,,,,1.0,Register Employee
+6,Process,Data Flow,2,,,,,,,,1.0,Create Employee DateTime LoggedIn
+7,Process,Data Flow,2,,,,,,,,1.0,Login Employee
+8,Process,Data Flow,2,,,,,,,,1.0,CreateWorker
+9,Data Store,Data Flow,2,,,,,,,,Workers BioData,
+10,Data Store,Data Flow,2,,,,,,,,Worker Experience,
+11,Data Store,Data Flow,2,,,,,,,,Educational Qualification,
+12,External Entity,Data Flow,2,,,,,,,,Workers Dashboard,
+13,External Entity,Data Flow,2,,,,,,,,Workers Holiday,
+14,Data Store,Data Flow,2,,,,,,,,,Workers Biodata
+15,Data Store,Data Flow,2,,,,,,,,,Workers Schedule
+16,Process,Data Flow,2,,,,,,,,1.0,Create Schedule Selected Worker
+17,Process,Data Flow,2,,,,,,,,View Worker Schedule,
+18,Process,Data Flow,2,,,,,,,,1.0,Schedule Worker
+19,External Entity,Data Flow,2,,,,,,,,Set Worker Schedule,
+20,Data Store,Data Flow,2,,,,,,,,,Employee
+21,Data Store,Data Flow,2,,,,,,,,,Workers Attendance
+22,Data Store,Data Flow,2,,,,,,,,,Employee
+23,Data Store,Data Flow,2,,,,,,,,,EmployeeTemp
+24,Process,Data Flow,2,,,,,,,,Print QRCode,
+25,Process,Data Flow,2,,,,,,,,1.0,Worker Attendance
+26,Process,Data Flow,2,,,,,,,,Worker Attendance Report,
+27,Line,,2,,,24,4,None,Arrow,,Worker Attendance,
+28,Line,,2,,,5,6,None,Arrow,,Create Detail,
+29,Line,,2,,,7,6,None,Arrow,,Check Detail,
+30,Line,,2,,,8,9,None,Arrow,,Query,
+31,Line,,2,,,8,11,None,Arrow,,Query,
+32,Line,,2,,,8,10,None,Arrow,,Query,
+33,Line,,2,,,6,12,None,Arrow,,Workers Status,
+34,Line,,2,,,12,8,None,Arrow,,Workers Form,
+35,Line,,2,,,8,17,None,Arrow,,Schedule Confirmation,
+36,Line,,2,,,16,24,None,Arrow,,Workers Attendance,
+37,Line,,2,,,18,13,None,Arrow,,Absent Status,
+38,Line,,2,,,13,14,None,Arrow,,Query,
+39,Line,,2,,,14,13,None,Arrow,,Stock Information,
+40,Line,,2,,,15,18,None,Arrow,,Stock Information,
+41,Line,,2,,,18,15,None,Arrow,,Query,
+42,Line,,2,,,18,19,None,Arrow,,Set Worker Sched,
+43,Line,,2,,,4,3,None,Arrow,,Query,
+44,Line,,2,,,4,26,None,Arrow,,Workers Attendance Detail,
+45,Line,,2,,,25,12,None,Arrow,,Worker Confirmation,
+46,Line,,2,,,13,4,None,Arrow,,Worker Holiday Attendance,
+47,Line,,2,,,17,18,None,Arrow,,Worker Schedule Detail,
+48,Line,,2,,,19,16,None,Arrow,,Worker Detail,
+49,Line,,2,,,5,20,None,Arrow,,Query,
+50,Line,,2,,,25,21,None,Arrow,,Query,
+51,Line,,2,,,21,25,None,Arrow,,Stock Information,
+52,Line,,2,,,7,22,None,Arrow,,Query,
+53,Line,,2,,,6,23,None,Arrow,,Query,
+54,Line,,2,,,26,25,None,Arrow,,Workers Detail,
